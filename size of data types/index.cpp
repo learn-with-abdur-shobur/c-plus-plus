@@ -22,6 +22,16 @@ int main (){
     bool d;
     cout<< "Size of a bool: "<<sizeof(d)<<endl;
     // Size of a bool: 1
+  
+    // size of sort int 
+    short int e;
+    cout<< "Size of a sort int: "<<sizeof(e)<<endl;
+    // Size of a sort int: 2
+
+    // size of long int 
+    long int f;
+    cout<< "Size of a long int: "<<sizeof(f)<<endl;
+    // Size of long int: 4
 
 
     return 0;
