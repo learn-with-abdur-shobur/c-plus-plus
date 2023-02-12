@@ -15,6 +15,7 @@ int main() {
   cout << firstNum << secondNum << "\n";
 
   // Call the function, which will change the values of firstNum and secondNum
+  // Call the function, which will change the values of firstNum and secondNum
   swapNums(firstNum, secondNum);
 
   cout << "After swap: " << "\n";
