@@ -8,7 +8,7 @@ void swapNums(int &x, int &y) {
 }
 
 int main() {
-  // int firstNum = 10;
+  int firstNum = 10;
   int secondNum = 20;
 
   cout << "Before swap: " << "\n";
