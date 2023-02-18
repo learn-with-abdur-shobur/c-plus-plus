@@ -18,7 +18,7 @@ int main() {
   // Call the function, which will change the values of firstNum and secondNum
   swapNums(firstNum, secondNum);
 
-  cout << "After swap: " << "\n";
+  cout << "After swap:  " << "\n";
   cout << firstNum << secondNum << "\n";
 
   return 0;
