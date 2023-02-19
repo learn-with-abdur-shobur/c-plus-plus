@@ -6,7 +6,7 @@ int main(){
     cin>>a;
     if (a%2==0)
     {
-     // comment 
+     
          cout<< a <<" is even";
     }else
     {
