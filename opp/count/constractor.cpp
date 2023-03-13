@@ -4,8 +4,10 @@ using namespace std;
 class Addition{
     public:
     int c;
-    Addition(int a,int b)
+    int a,b;
+    Addition( )
     {
+    cin >>a>>b;
         c= a+b;
         cout<<"the result is :"<<c;
     };
@@ -13,7 +15,6 @@ class Addition{
 
 int main ()
 {
-    int a,b;
-    cin >>a>>b;
-    Addition obj(  a,   b);
+    
+    Addition obj ;
 };
